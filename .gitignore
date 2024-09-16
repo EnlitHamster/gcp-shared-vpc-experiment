@@ -1,0 +1,7 @@
+# VSCode stuff
+.vscode/
+
+# Python stuff
+**/.mypy_cache/
+**/*.pyd
+**/.venv/
